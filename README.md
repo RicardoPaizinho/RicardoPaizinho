@@ -1,16 +1,19 @@
-### Hi there 👋
+# Ricardo Paizinho👋
 
-<!--
-**RicardoPaizinho/RicardoPaizinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim
 
-Here are some ideas to get you started:
+Mais conhecido como Paizinho, Técnico em Eletronica, Informática e me especializando para tornar o hobbie da programação minha profissão
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conecte-se Comigo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/ricardo-paizinho-b3b1222b/)
+
+### Habilidades
+
+[![My Skills](https://skillicons.dev/icons?i=git,cs,java,dotnet,py,html&perline=3&theme=light)](https://skillicons.dev)
+
+
+### Github Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardopaizinho&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+
